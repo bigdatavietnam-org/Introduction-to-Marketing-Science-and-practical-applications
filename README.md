@@ -42,27 +42,40 @@ Introduction Programming with Python and how to apply for Marketing Science
 ### Part 3: Introduction to Marketing Science 
 **Overview Marketing Science (how to connect Marketing and Data Science)**
 
-1. Basic Statistics Every Data Scientist Should Know
+1. **Basic Statistics Every Data Scientist Should Know**
 * Discrete vs. Continuous
 * Statistical Distributions: Poisson Distribution, Binomial Distribution.
 * Probability Density Functions And Cumulative Density Function
 * Accuracy Analysis and Testing Data Science Models
 * Theorems and Algorithms: Bayes Theorem, K-Nearest Neighbor Algorithm, Bagging/Bootstrap aggregating
 
-2. Brief principles of consumer behaviour and marketing strategy for Industry 4.0
+2. **Brief principles of consumer behaviour and marketing strategy for Industry 4.0**
 * Quickly review 4P(Product, Place, Price, Promotion) in the age of Big Data
 * Introduction to new strategic marketing concepts 4 P’s: People, Partners, Processes, and Platforms
-* Introduction to customer-first marketing model with Customer Data Platform
+* Introduction to Customer-First Marketing Model 
 
-3. Modeling Customer Journey Map using Python and USPA framework
+3. **Modeling Customer Journey Map using Python and USPA framework**
 * Introduction to USPA framework
 * Introduction to Visual Thinking with Data Visualization
 * Design thinking for Customer Experience Optimzation with Customer Journey Map
 
-### Part 4: Practical Project
-**Applied Python and Marketing Science in E-commerce & Retails**
-1. Introduction to Big Data, Customer Data Platform and E-commerce
+4. **Practical project: Design & optimizing Customer Journey Map for e-commerce** 
+
+### Part 4: Introduction to Big Data and Data Science 
+1. Introduction to Big Data and Data Science Project Lifecycle 
+2. Introduction to database systems: MySQL and ArangoDB
+3. How to use the NumPy & Pandas library for scientific computing and data analysis
+4. Data Visualization with matplotlib and D3.js
+5. Machine Learning with scikit-learn
+6. Model persistence 
+7. **Practical project: Analyze Sales & Marketing Data** 
+
+### Part 5: Practical Project
+**Applied Marketing Science and Customer Data Platform in E-Commerce**
+1. Introduction to Customer Data Platform and E-commerce
 2. How to unify customer data profiles from multiple sources
 3. How to segment profiles using RFM model and lead scoring model
 4. How to personalize customer experience using Behavioral analytics
 5. How to build customer activation plan with Data Science and Marketing Automation
+
+**Summary**
