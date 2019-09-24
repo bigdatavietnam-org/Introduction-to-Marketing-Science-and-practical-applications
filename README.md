@@ -6,7 +6,7 @@ Introduction Programming with Python and how to apply for Marketing Science
 ### Part 1: Introduction to Digital Marketing and basic website design
 1. Definitions and Background
 2. Strategic Thought as It Relates to Digital Marketing
-3. The Website: The Center of Digital Marketing Delivery Mix: HTML5, CSS3, Bootstap 4, JavaScript
+3. The Website: The Center of Digital Marketing Delivery Mix: HTML5, CSS3, Bootstrap 4, JavaScript
 4. Content Management System: Wordpress as case study
 5. Search Engine Marketing
 6. E-mail Marketing
