@@ -1,4 +1,4 @@
-# How to build smart e-commerce web app with HTML5, 
+# Introduction to Web Programming, Python and Marketing Science
 Introduction Programming with Python and how to apply for Marketing Science 
 
 ## Content
@@ -7,7 +7,7 @@ Introduction Programming with Python and how to apply for Marketing Science
 1. HTML 5 
 2. CSS 3
 3. Bootstap 4: 
-4. JavaScript: programming language of the Web
+4. JavaScript: core programming language of the modern Web
 
 ### Part 2: Introduction to Computer Programming with Python
 **Editors for programming: VS code and Jupiter**
@@ -34,7 +34,7 @@ Introduction Programming with Python and how to apply for Marketing Science
 20. Practical project: build a simple website with Flask
 
 ### Part 3: Introduction to Marketing Science 
-**Overview Marketing Science (connecting Marketing and Data Science)**
+**Overview Marketing Science (how to connect Marketing and Data Science)**
 
 1. Basic Statistics Every Data Scientist Should Know
 * Discrete vs. Continuous
