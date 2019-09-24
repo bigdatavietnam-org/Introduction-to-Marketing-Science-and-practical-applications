@@ -54,8 +54,8 @@ Introduction Programming with Python and how to apply for Marketing Science
 * Design thinking for Customer Experience Optimzation with Customer Journey Map
 
 ### Part 4: Practical Project
-**Applied Python and Marketing Science in E-commernce & Retails**
-1. Problems in business context
+**Applied Python and Marketing Science in E-commerce & Retails**
+1. Introduction to Big Data, Customer Data Platform and E-commerce
 2. How to unify customer data profiles from multiple sources
 3. How to segment profiles using RFM model and lead scoring model
 4. How to personalize customer experience using Behavioral analytics
