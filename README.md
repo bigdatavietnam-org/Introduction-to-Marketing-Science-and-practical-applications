@@ -1,13 +1,19 @@
-# Introduction to Web Programming, Python and Marketing Science
+# Introduction to Marketing Science and practical applications
 Introduction Programming with Python and how to apply for Marketing Science 
 
 ## Content
 
-### Part 1: Introduction to Basic Web Programming 
-1. HTML 5 
-2. CSS 3
-3. Bootstap 4: 
-4. JavaScript: core programming language of the modern Web
+### Part 1: Introduction to Digital Marketing and basic website design
+1. Definitions and Background
+2. Strategic Thought as It Relates to Digital Marketing
+3. The Website: The Center of Digital Marketing Delivery Mix: HTML5, CSS3, Bootstap 4, JavaScript
+4. Content Management System: Wordpress as case study
+5. Search Engine Marketing
+6. E-mail Marketing
+7. Social Media and Mobile Marketing
+8. Introduction to Customer Database, CRM and Analytics
+9. Introduction to Cloud Computing and Cloud Platform
+10. Legal Issues: Data privacy, Security, and Intellectual Property
 
 ### Part 2: Introduction to Computer Programming with Python
 **Editors for programming: VS code and Jupiter**
